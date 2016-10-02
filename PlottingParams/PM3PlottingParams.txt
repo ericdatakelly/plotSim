@@ -1,0 +1,49 @@
+PM3
+Parameters for plotting Crystallize3D simulation output.  **Note that rock volume is estimated so that the mode = 1.6% (due to conflicting volumes found in reduce and int files).
+
+Rock-specific values
+File that contains values for rock (not simulation)             :PM3_Petra_EPMA_radii_formatted_as_int.txt
+File that contains core-rim zoning of big Grt                   :PetraPM3_PM3.74.195417_right.txt
+File that contains core conc values for rock                    :PetraPM3_RadiusVsCoreMnOMeasured.txt
+Crystal number density (from Reduce3D output)			:26
+Crystallization duration (my)                                   :10
+Temperature of equilibrium (start of crysallization)            :435
+Temperature of rim (T95, e.g., thermometry)                     :535
+Mode (vol percent) of porphyroblasts                            :1.6
+Rock volume (cm^3)                                              :19.03
+    
+Constants and user adjustable values    
+CSD bins (min)                                                  :0
+CSD bins (center)                                               :0.005
+CSD bins (max)                                                  :0.130
+CSD X axis (min)                                                :0
+CSD X axis (max)                                                :0.132
+CSD X axis tick locations (min)                                 :0
+CSD X axis tick locations (increment)                           :0.020
+CSD X axis tick locations (max)                                 :0.120
+CSD Y axis (min)                                                :0
+CSD Y axis (max)                                                :25
+Plot CSDs for individual layers in new figure? (0 = N, 1 = Y)   :0
+Nucl, Heating path, %Al X axis limits (min)                     :0
+Nucl, Heating path, %Al X axis limits (max)                     :30
+Set max nucleation rate Y axis manually? (0 = N, 1 = Y)         :0
+Max nucleation rate Y axis limits (min)                         :0
+Max nucleation rate Y axis tick (increment)                     :2.0e-14
+Max nucleation rate Y axis limits (max)                         :1.0e-13
+Smooth the nucleation rate? (0 = N, 1 = Y)                      :1
+Smoothing window (integer)                                      :5
+Heating Path Y axis limits (min)                                :400
+Heating Path Y axis limits (increment)                          :50
+Heating Path Y axis limits (max)                                :600
+Plot crystals in 3D in new figure? (0 = N, 1 = Y)               :0
+Set reaction affinity Y axis manually? (0 = N, 1 = Y)           :1
+Reaction affinity Y axis limits (min)                           :0
+Reaction affinity Y axis limits (increment)                     :5
+Reaction affinity Y axis limits (max)                           :20
+Plot Zoning vs Radius relationship? (0 = N, 1 = Y)              :1
+Core concentration X axis (min)                                 :0
+Core concentration X axis (max)                                 :5
+Core concentration bins (min)                                   :0
+Core concentration bins (center)                                :0.25
+Core concentration bins (max)                                   :5
+Smoothing window for Zoning vs Radius relationship (integer)    :5

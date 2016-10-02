@@ -1,0 +1,942 @@
+Crystallize 1.4 log for model PM3_151028_2242
+Run began at: Wed Oct 28 22:51:44 2015
+
+**** WARNING ****: max courant = 1.29375.  Instability possible.
+
+Random seed used = -1446090704
+
+Time = 250000.000000, delC = 2.85052e-09, NuclRate = 0
+Time = 500000.000000, delC = 5.7054e-09, NuclRate = 0
+Time = 750000.000000, delC = 8.56662e-09, NuclRate = 1.7387e-272
+Time = 1000000.000000, delC = 1.14342e-08, NuclRate = 9.90783e-172
+Time = 1250000.000000, delC = 1.43081e-08, NuclRate = 2.49505e-121
+Time = 1500000.000000, delC = 1.71883e-08, NuclRate = 3.11303e-92
+Time = 1750000.000000, delC = 2.00748e-08, NuclRate = 8.65234e-74
+Time = 2000000.000000, delC = 2.29675e-08, NuclRate = 2.67213e-61
+Time = 2250000.000000, delC = 2.58666e-08, NuclRate = 2.04561e-52
+Time = 2500000.000000, delC = 2.87718e-08, NuclRate = 7.50167e-46
+Time = 2750000.000000, delC = 3.16833e-08, NuclRate = 7.49864e-41
+Time = 3000000.000000, delC = 3.4601e-08, NuclRate = 6.00729e-37
+Time = 3250000.000000, delC = 3.7525e-08, NuclRate = 7.76253e-34
+Time = 3500000.000000, delC = 4.04551e-08, NuclRate = 2.59025e-31
+Time = 3750000.000000, delC = 4.33913e-08, NuclRate = 3.09417e-29
+Time = 4000000.000000, delC = 4.63337e-08, NuclRate = 1.66994e-27
+Time = 4250000.000000, delC = 4.92823e-08, NuclRate = 4.82527e-26
+Time = 4500000.000000, delC = 5.2237e-08, NuclRate = 8.46897e-25
+Time = 4750000.000000, delC = 5.51978e-08, NuclRate = 9.93408e-24
+Time = 5000000.000000, delC = 5.81646e-08, NuclRate = 8.38153e-23
+Time = 5250000.000000, delC = 6.11376e-08, NuclRate = 5.38635e-22
+Time = 5500000.000000, delC = 6.41166e-08, NuclRate = 2.75856e-21
+Time = 5750000.000000, delC = 6.71016e-08, NuclRate = 1.16725e-20
+Time = 6000000.000000, delC = 7.00927e-08, NuclRate = 4.2014e-20
+Time = 6250000.000000, delC = 7.30898e-08, NuclRate = 1.31725e-19
+Time = 6500000.000000, delC = 7.60929e-08, NuclRate = 3.66815e-19
+Time = 6750000.000000, delC = 7.91019e-08, NuclRate = 9.22001e-19
+Time = 7000000.000000, delC = 8.2117e-08, NuclRate = 2.12012e-18
+Time = 7250000.000000, delC = 8.51379e-08, NuclRate = 4.5106e-18
+Time = 7500000.000000, delC = 8.81649e-08, NuclRate = 8.9638e-18
+Time = 7750000.000000, delC = 9.11977e-08, NuclRate = 1.67746e-17
+Time = 8000000.000000, delC = 9.42364e-08, NuclRate = 2.9766e-17
+Time = 8250000.000000, delC = 9.7281e-08, NuclRate = 5.03819e-17
+Time = 8500000.000000, delC = 1.00332e-07, NuclRate = 8.17599e-17
+Time = 8750000.000000, delC = 1.03388e-07, NuclRate = 1.27775e-16
+Time = 9000000.000000, delC = 1.0645e-07, NuclRate = 1.93051e-16
+Time = 9250000.000000, delC = 1.09518e-07, NuclRate = 2.82933e-16
+Time = 9500000.000000, delC = 1.12592e-07, NuclRate = 4.03427e-16
+Time = 9750000.000000, delC = 1.15671e-07, NuclRate = 5.61111e-16
+Time = 10000000.000000, delC = 1.18757e-07, NuclRate = 7.63017e-16
+Time = 10250000.000000, delC = 1.21848e-07, NuclRate = 1.0165e-15
+Time = 10500000.000000, delC = 1.24945e-07, NuclRate = 1.32908e-15
+Time = 10750000.000000, delC = 1.28047e-07, NuclRate = 1.70832e-15
+Time = 11000000.000000, delC = 1.31156e-07, NuclRate = 2.16165e-15
+Time = 11250000.000000, delC = 1.3427e-07, NuclRate = 2.69626e-15
+Time = 11500000.000000, delC = 1.37389e-07, NuclRate = 3.31896e-15
+Time = 11750000.000000, delC = 1.40515e-07, NuclRate = 4.03608e-15
+Time = 12000000.000000, delC = 1.43646e-07, NuclRate = 4.85337e-15
+Time = 12250000.000000, delC = 1.46782e-07, NuclRate = 5.77593e-15
+Time = 12500000.000000, delC = 1.49925e-07, NuclRate = 6.80818e-15
+Time = 12750000.000000, delC = 1.53073e-07, NuclRate = 7.95382e-15
+Time = 13000000.000000, delC = 1.56226e-07, NuclRate = 9.21576e-15
+Time = 13250000.000000, delC = 1.59385e-07, NuclRate = 1.05962e-14
+Time = 13500000.000000, delC = 1.6255e-07, NuclRate = 1.20966e-14
+Time = 13750000.000000, delC = 1.6572e-07, NuclRate = 1.37177e-14
+Time = 14000000.000000, delC = 1.68895e-07, NuclRate = 1.54595e-14
+Time = 14250000.000000, delC = 1.72076e-07, NuclRate = 1.73214e-14
+Time = 14500000.000000, delC = 1.75263e-07, NuclRate = 1.93023e-14
+Time = 14750000.000000, delC = 1.78455e-07, NuclRate = 2.14003e-14
+Time = 15000000.000000, delC = 1.81653e-07, NuclRate = 2.36131e-14
+Time = 15250000.000000, delC = 1.84856e-07, NuclRate = 2.59382e-14
+Time = 15500000.000000, delC = 1.88064e-07, NuclRate = 2.83723e-14
+Time = 15750000.000000, delC = 1.91278e-07, NuclRate = 3.09119e-14
+Time = 16000000.000000, delC = 1.94497e-07, NuclRate = 3.35533e-14
+Time = 16250000.000000, delC = 1.97722e-07, NuclRate = 3.62924e-14
+Uncompensated deficit of 1.9131e-09 g at index (6,108,11) at time 16.308 m.y.
+Uncompensated deficit of 4.02383e-09 g at index (5,109,11) at time 16.318 m.y.
+Uncompensated deficit of 6.99231e-09 g at index (6,109,10) at time 16.346 m.y.
+Uncompensated deficit of 3.09011e-09 g at index (7,107,11) at time 16.402 m.y.
+Uncompensated deficit of 5.6711e-09 g at index (5,110,10) at time 16.406 m.y.
+Time = 16500000.000000, delC = 2.00952e-07, NuclRate = 3.91251e-14
+Time = 16750000.000000, delC = 2.04187e-07, NuclRate = 4.20468e-14
+Uncompensated deficit of 1.00191e-08 g at index (130,92,97) at time 16.978 m.y.
+Time = 17000000.000000, delC = 2.07427e-07, NuclRate = 4.5053e-14
+Time = 17250000.000000, delC = 2.10673e-07, NuclRate = 4.81392e-14
+Uncompensated deficit of 2.78913e-09 g at index (24,125,71) at time 17.270 m.y.
+Uncompensated deficit of 6.09851e-09 g at index (24,124,70) at time 17.310 m.y.
+Uncompensated deficit of 7.64351e-09 g at index (25,125,70) at time 17.340 m.y.
+Uncompensated deficit of 4.72798e-09 g at index (25,126,71) at time 17.358 m.y.
+Time = 17500000.000000, delC = 2.13925e-07, NuclRate = 5.13006e-14
+Time = 17750000.000000, delC = 2.17181e-07, NuclRate = 5.45326e-14
+Uncompensated deficit of 4.75036e-10 g at index (16,132,63) at time 17.854 m.y.
+Uncompensated deficit of 6.60827e-09 g at index (16,133,64) at time 17.864 m.y.
+Time = 18000000.000000, delC = 2.20443e-07, NuclRate = 5.78303e-14
+Uncompensated deficit of 1.51212e-09 g at index (61,58,104) at time 18.176 m.y.
+Time = 18250000.000000, delC = 2.2371e-07, NuclRate = 6.11892e-14
+Uncompensated deficit of 3.10054e-09 g at index (61,57,103) at time 18.254 m.y.
+Uncompensated deficit of 4.28021e-09 g at index (5,122,24) at time 18.322 m.y.
+Uncompensated deficit of 5.4378e-09 g at index (6,121,25) at time 18.340 m.y.
+Uncompensated deficit of 9.50313e-09 g at index (7,122,25) at time 18.372 m.y.
+Time = 18500000.000000, delC = 2.26982e-07, NuclRate = 6.46046e-14
+Time = 18750000.000000, delC = 2.3026e-07, NuclRate = 6.80719e-14
+Uncompensated deficit of 4.75075e-09 g at index (75,42,136) at time 18.758 m.y.
+Uncompensated deficit of 6.43288e-09 g at index (74,44,137) at time 18.770 m.y.
+Uncompensated deficit of 8.18362e-09 g at index (46,98,82) at time 18.928 m.y.
+Uncompensated deficit of 2.53912e-09 g at index (13,132,74) at time 18.964 m.y.
+Uncompensated deficit of 3.40314e-09 g at index (12,132,73) at time 18.982 m.y.
+Time = 19000000.000000, delC = 2.33542e-07, NuclRate = 7.15867e-14
+Uncompensated deficit of 5.76794e-09 g at index (11,131,72) at time 19.058 m.y.
+Uncompensated deficit of 7.07134e-09 g at index (11,135,71) at time 19.076 m.y.
+Time = 19250000.000000, delC = 2.3683e-07, NuclRate = 7.51445e-14
+Time = 19500000.000000, delC = 2.40123e-07, NuclRate = 7.87411e-14
+Uncompensated deficit of 6.84541e-09 g at index (122,45,125) at time 19.594 m.y.
+Uncompensated deficit of 2.8865e-09 g at index (122,44,126) at time 19.612 m.y.
+Uncompensated deficit of 4.7097e-09 g at index (120,44,125) at time 19.636 m.y.
+Uncompensated deficit of 2.41586e-10 g at index (123,45,126) at time 19.644 m.y.
+Uncompensated deficit of 4.77256e-10 g at index (120,45,124) at time 19.660 m.y.
+Uncompensated deficit of 8.63426e-09 g at index (123,46,125) at time 19.666 m.y.
+Uncompensated deficit of 8.39125e-09 g at index (123,44,127) at time 19.694 m.y.
+Time = 19750000.000000, delC = 2.43422e-07, NuclRate = 8.23722e-14
+Uncompensated deficit of 3.55551e-09 g at index (67,30,4) at time 19.966 m.y.
+Uncompensated deficit of 1.63396e-09 g at index (74,93,42) at time 19.966 m.y.
+Uncompensated deficit of 1.34528e-10 g at index (68,29,5) at time 19.980 m.y.
+Uncompensated deficit of 6.60496e-09 g at index (73,92,41) at time 19.996 m.y.
+Time = 20000000.000000, delC = 2.46725e-07, NuclRate = 8.6034e-14
+Uncompensated deficit of 4.84225e-09 g at index (67,29,6) at time 20.014 m.y.
+Time = 20250000.000000, delC = 2.50033e-07, NuclRate = 8.97225e-14
+Time = 20500000.000000, delC = 2.53347e-07, NuclRate = 9.34338e-14
+Uncompensated deficit of 1.06896e-08 g at index (70,35,131) at time 20.648 m.y.
+Uncompensated deficit of 1.79198e-09 g at index (69,35,132) at time 20.690 m.y.
+Time = 20750000.000000, delC = 2.56666e-07, NuclRate = 9.71645e-14
+Uncompensated deficit of 6.06355e-09 g at index (97,91,63) at time 20.770 m.y.
+Uncompensated deficit of 1.7933e-09 g at index (83,92,49) at time 20.780 m.y.
+Uncompensated deficit of 5.36395e-09 g at index (85,90,46) at time 20.810 m.y.
+Uncompensated deficit of 3.93818e-09 g at index (116,127,76) at time 20.828 m.y.
+Uncompensated deficit of 5.35143e-09 g at index (23,87,62) at time 20.860 m.y.
+Uncompensated deficit of 5.61638e-09 g at index (48,39,88) at time 20.898 m.y.
+Uncompensated deficit of 1.45242e-09 g at index (48,38,87) at time 20.906 m.y.
+Uncompensated deficit of 3.13967e-09 g at index (49,37,88) at time 20.930 m.y.
+Uncompensated deficit of 2.69401e-09 g at index (49,39,89) at time 20.930 m.y.
+Uncompensated deficit of 6.11923e-09 g at index (18,84,59) at time 20.934 m.y.
+Uncompensated deficit of 4.89701e-09 g at index (47,40,87) at time 20.954 m.y.
+Time = 21000000.000000, delC = 2.59989e-07, NuclRate = 1.00911e-13
+Uncompensated deficit of 3.64359e-10 g at index (54,53,86) at time 21.006 m.y.
+Uncompensated deficit of 5.95174e-09 g at index (50,37,89) at time 21.008 m.y.
+Uncompensated deficit of 4.0763e-09 g at index (49,36,87) at time 21.014 m.y.
+Uncompensated deficit of 6.83672e-09 g at index (50,38,90) at time 21.026 m.y.
+Uncompensated deficit of 1.9786e-09 g at index (102,23,88) at time 21.054 m.y.
+Uncompensated deficit of 9.51638e-09 g at index (103,21,87) at time 21.078 m.y.
+Uncompensated deficit of 4.25321e-09 g at index (63,38,89) at time 21.102 m.y.
+Uncompensated deficit of 4.72933e-09 g at index (64,38,88) at time 21.124 m.y.
+Uncompensated deficit of 1.23222e-09 g at index (64,40,89) at time 21.136 m.y.
+Uncompensated deficit of 3.70699e-09 g at index (63,40,90) at time 21.146 m.y.
+Uncompensated deficit of 3.56831e-09 g at index (62,38,90) at time 21.148 m.y.
+Uncompensated deficit of 7.71686e-09 g at index (104,21,86) at time 21.154 m.y.
+Uncompensated deficit of 1.85479e-10 g at index (65,40,88) at time 21.190 m.y.
+Uncompensated deficit of 5.60817e-09 g at index (63,36,88) at time 21.198 m.y.
+Uncompensated deficit of 6.59669e-09 g at index (106,20,85) at time 21.204 m.y.
+Uncompensated deficit of 2.22789e-09 g at index (65,38,87) at time 21.204 m.y.
+Uncompensated deficit of 1.03421e-08 g at index (105,21,85) at time 21.206 m.y.
+Uncompensated deficit of 1.83947e-08 g at index (105,20,86) at time 21.210 m.y.
+Uncompensated deficit of 4.90639e-09 g at index (62,36,89) at time 21.212 m.y.
+Time = 21250000.000000, delC = 2.63318e-07, NuclRate = 1.0467e-13
+Uncompensated deficit of 7.13364e-09 g at index (61,38,91) at time 21.250 m.y.
+Uncompensated deficit of 5.86956e-09 g at index (70,52,114) at time 21.266 m.y.
+Uncompensated deficit of 5.06823e-09 g at index (68,51,115) at time 21.276 m.y.
+Uncompensated deficit of 1.93467e-09 g at index (66,40,87) at time 21.302 m.y.
+Uncompensated deficit of 5.40254e-09 g at index (68,55,116) at time 21.312 m.y.
+Uncompensated deficit of 5.48647e-09 g at index (105,105,46) at time 21.334 m.y.
+Uncompensated deficit of 3.93705e-09 g at index (106,105,47) at time 21.360 m.y.
+Uncompensated deficit of 6.97388e-09 g at index (55,97,25) at time 21.366 m.y.
+Uncompensated deficit of 2.58022e-09 g at index (55,96,26) at time 21.368 m.y.
+Uncompensated deficit of 4.44896e-09 g at index (104,104,47) at time 21.368 m.y.
+Uncompensated deficit of 6.49862e-09 g at index (106,106,45) at time 21.378 m.y.
+Uncompensated deficit of 1.78441e-09 g at index (105,104,48) at time 21.388 m.y.
+Uncompensated deficit of 8.32308e-09 g at index (71,51,113) at time 21.394 m.y.
+Uncompensated deficit of 2.84251e-09 g at index (56,97,24) at time 21.398 m.y.
+Uncompensated deficit of 8.51436e-09 g at index (107,106,46) at time 21.404 m.y.
+Uncompensated deficit of 3.47344e-09 g at index (54,97,26) at time 21.406 m.y.
+Uncompensated deficit of 1.06859e-08 g at index (103,104,46) at time 21.406 m.y.
+Uncompensated deficit of 3.37165e-09 g at index (28,136,55) at time 21.406 m.y.
+Uncompensated deficit of 4.10228e-09 g at index (66,54,117) at time 21.414 m.y.
+Uncompensated deficit of 7.04592e-09 g at index (103,103,48) at time 21.416 m.y.
+Uncompensated deficit of 1.1246e-08 g at index (28,134,54) at time 21.430 m.y.
+Uncompensated deficit of 7.83066e-09 g at index (29,137,56) at time 21.434 m.y.
+Uncompensated deficit of 6.28038e-09 g at index (27,44,91) at time 21.482 m.y.
+Time = 21500000.000000, delC = 2.66652e-07, NuclRate = 1.08438e-13
+Uncompensated deficit of 2.41448e-09 g at index (28,45,92) at time 21.510 m.y.
+Uncompensated deficit of 1.71355e-09 g at index (97,38,55) at time 21.602 m.y.
+Uncompensated deficit of 1.00999e-09 g at index (88,9,88) at time 21.616 m.y.
+Uncompensated deficit of 2.14754e-09 g at index (89,10,89) at time 21.622 m.y.
+Uncompensated deficit of 6.89531e-09 g at index (32,22,4) at time 21.658 m.y.
+Uncompensated deficit of 8.05467e-09 g at index (87,9,87) at time 21.672 m.y.
+Uncompensated deficit of 4.20829e-09 g at index (98,39,53) at time 21.674 m.y.
+Uncompensated deficit of 3.93701e-10 g at index (88,12,89) at time 21.674 m.y.
+Uncompensated deficit of 4.83291e-09 g at index (31,23,5) at time 21.682 m.y.
+Uncompensated deficit of 7.44185e-09 g at index (90,10,90) at time 21.690 m.y.
+Uncompensated deficit of 1.63071e-08 g at index (47,46,92) at time 21.708 m.y.
+Uncompensated deficit of 6.5525e-09 g at index (48,45,93) at time 21.712 m.y.
+Uncompensated deficit of 8.06516e-09 g at index (31,24,4) at time 21.716 m.y.
+Uncompensated deficit of 1.13551e-08 g at index (49,45,94) at time 21.738 m.y.
+Uncompensated deficit of 4.63079e-09 g at index (138,50,119) at time 21.742 m.y.
+Uncompensated deficit of 1.2028e-08 g at index (46,46,91) at time 21.746 m.y.
+Time = 21750000.000000, delC = 2.69991e-07, NuclRate = 1.12213e-13
+Uncompensated deficit of 3.97831e-09 g at index (70,46,111) at time 21.780 m.y.
+Uncompensated deficit of 2.5735e-09 g at index (71,47,111) at time 21.794 m.y.
+Uncompensated deficit of 6.79452e-09 g at index (49,136,103) at time 21.852 m.y.
+Uncompensated deficit of 6.6621e-09 g at index (108,127,103) at time 21.874 m.y.
+Uncompensated deficit of 3.62085e-11 g at index (51,137,104) at time 21.888 m.y.
+Uncompensated deficit of 4.89231e-09 g at index (33,88,55) at time 21.890 m.y.
+Uncompensated deficit of 7.0289e-10 g at index (112,71,87) at time 21.896 m.y.
+Uncompensated deficit of 1.71542e-09 g at index (125,58,124) at time 21.902 m.y.
+Uncompensated deficit of 4.23481e-09 g at index (108,128,102) at time 21.910 m.y.
+Uncompensated deficit of 3.99613e-09 g at index (108,126,104) at time 21.910 m.y.
+Uncompensated deficit of 8.40249e-09 g at index (124,59,125) at time 21.912 m.y.
+Uncompensated deficit of 6.36203e-09 g at index (109,127,102) at time 21.914 m.y.
+Uncompensated deficit of 6.29993e-09 g at index (109,126,103) at time 21.914 m.y.
+Uncompensated deficit of 2.16909e-09 g at index (130,120,82) at time 21.940 m.y.
+Uncompensated deficit of 8.60815e-09 g at index (129,121,83) at time 21.944 m.y.
+Uncompensated deficit of 5.84383e-09 g at index (129,6,91) at time 21.968 m.y.
+Uncompensated deficit of 7.13301e-09 g at index (129,119,85) at time 21.974 m.y.
+Uncompensated deficit of 7.27735e-09 g at index (130,6,92) at time 21.976 m.y.
+Uncompensated deficit of 2.66668e-09 g at index (131,120,81) at time 21.984 m.y.
+Uncompensated deficit of 1.11555e-08 g at index (128,121,85) at time 21.988 m.y.
+Uncompensated deficit of 9.27799e-09 g at index (128,122,84) at time 21.994 m.y.
+Time = 22000000.000000, delC = 2.73335e-07, NuclRate = 1.15991e-13
+Uncompensated deficit of 8.64475e-09 g at index (127,121,87) at time 22.022 m.y.
+Uncompensated deficit of 5.27846e-09 g at index (128,6,90) at time 22.022 m.y.
+Uncompensated deficit of 7.92715e-09 g at index (61,45,95) at time 22.036 m.y.
+Uncompensated deficit of 8.99928e-10 g at index (131,6,93) at time 22.044 m.y.
+Uncompensated deficit of 7.94146e-09 g at index (37,106,77) at time 22.052 m.y.
+Uncompensated deficit of 1.23367e-08 g at index (63,46,94) at time 22.054 m.y.
+Uncompensated deficit of 1.14853e-08 g at index (36,105,77) at time 22.110 m.y.
+Uncompensated deficit of 9.34687e-09 g at index (127,6,89) at time 22.128 m.y.
+Uncompensated deficit of 6.43701e-09 g at index (88,22,89) at time 22.146 m.y.
+Uncompensated deficit of 5.86316e-09 g at index (11,62,116) at time 22.152 m.y.
+Uncompensated deficit of 1.44314e-09 g at index (89,22,90) at time 22.158 m.y.
+Uncompensated deficit of 5.42074e-09 g at index (12,63,115) at time 22.164 m.y.
+Uncompensated deficit of 8.12655e-09 g at index (87,22,88) at time 22.168 m.y.
+Uncompensated deficit of 6.50822e-09 g at index (88,23,88) at time 22.170 m.y.
+Uncompensated deficit of 8.18754e-09 g at index (89,24,89) at time 22.174 m.y.
+Uncompensated deficit of 3.4049e-09 g at index (11,63,114) at time 22.182 m.y.
+Uncompensated deficit of 1.00177e-10 g at index (88,20,90) at time 22.184 m.y.
+Uncompensated deficit of 8.1397e-09 g at index (87,20,89) at time 22.186 m.y.
+Uncompensated deficit of 2.60132e-09 g at index (87,19,90) at time 22.202 m.y.
+Uncompensated deficit of 3.20968e-09 g at index (90,23,91) at time 22.204 m.y.
+Uncompensated deficit of 8.46299e-09 g at index (12,62,117) at time 22.204 m.y.
+Uncompensated deficit of 4.23465e-09 g at index (90,24,90) at time 22.206 m.y.
+Uncompensated deficit of 5.91717e-09 g at index (119,30,107) at time 22.210 m.y.
+Uncompensated deficit of 1.0698e-08 g at index (86,19,89) at time 22.212 m.y.
+Uncompensated deficit of 9.11512e-09 g at index (86,20,88) at time 22.220 m.y.
+Uncompensated deficit of 2.6035e-09 g at index (118,31,107) at time 22.220 m.y.
+Uncompensated deficit of 9.45073e-09 g at index (87,23,87) at time 22.222 m.y.
+Uncompensated deficit of 1.04598e-10 g at index (13,64,115) at time 22.224 m.y.
+Uncompensated deficit of 3.27094e-09 g at index (88,19,91) at time 22.226 m.y.
+Uncompensated deficit of 1.1466e-09 g at index (86,21,87) at time 22.228 m.y.
+Time = 22250000.000000, delC = 2.76684e-07, NuclRate = 1.19769e-13
+Uncompensated deficit of 6.0475e-09 g at index (120,32,105) at time 22.250 m.y.
+Uncompensated deficit of 1.02738e-08 g at index (89,25,88) at time 22.252 m.y.
+Uncompensated deficit of 7.77249e-10 g at index (85,18,88) at time 22.254 m.y.
+Uncompensated deficit of 2.9709e-09 g at index (121,31,105) at time 22.268 m.y.
+Uncompensated deficit of 7.44911e-09 g at index (90,21,92) at time 22.274 m.y.
+Uncompensated deficit of 8.83593e-09 g at index (89,19,92) at time 22.278 m.y.
+Uncompensated deficit of 6.70707e-09 g at index (85,20,87) at time 22.280 m.y.
+Uncompensated deficit of 9.63651e-09 g at index (14,64,116) at time 22.282 m.y.
+Uncompensated deficit of 3.85e-09 g at index (91,23,92) at time 22.296 m.y.
+Uncompensated deficit of 1.17548e-09 g at index (118,29,108) at time 22.296 m.y.
+Uncompensated deficit of 2.64511e-09 g at index (117,30,108) at time 22.304 m.y.
+Uncompensated deficit of 1.16962e-08 g at index (85,21,86) at time 22.318 m.y.
+Uncompensated deficit of 2.27361e-10 g at index (84,18,87) at time 22.328 m.y.
+Uncompensated deficit of 2.3844e-10 g at index (91,26,90) at time 22.342 m.y.
+Uncompensated deficit of 5.18614e-09 g at index (122,30,105) at time 22.344 m.y.
+Uncompensated deficit of 5.52277e-09 g at index (116,31,108) at time 22.368 m.y.
+Time = 22500000.000000, delC = 2.80037e-07, NuclRate = 1.23546e-13
+Uncompensated deficit of 1.39735e-08 g at index (97,52,58) at time 22.508 m.y.
+Uncompensated deficit of 1.02103e-08 g at index (98,53,58) at time 22.532 m.y.
+Uncompensated deficit of 2.88292e-09 g at index (26,45,104) at time 22.532 m.y.
+Uncompensated deficit of 3.50188e-09 g at index (26,44,106) at time 22.532 m.y.
+Uncompensated deficit of 6.59234e-09 g at index (27,45,106) at time 22.536 m.y.
+Uncompensated deficit of 4.72778e-09 g at index (25,44,104) at time 22.538 m.y.
+Uncompensated deficit of 8.81375e-10 g at index (98,52,59) at time 22.546 m.y.
+Uncompensated deficit of 1.20245e-08 g at index (99,53,59) at time 22.556 m.y.
+Uncompensated deficit of 7.67046e-09 g at index (25,43,106) at time 22.558 m.y.
+Uncompensated deficit of 8.60287e-09 g at index (99,54,58) at time 22.560 m.y.
+Uncompensated deficit of 2.79521e-09 g at index (27,46,103) at time 22.562 m.y.
+Uncompensated deficit of 5.31291e-09 g at index (24,43,104) at time 22.572 m.y.
+Uncompensated deficit of 1.07524e-08 g at index (28,46,105) at time 22.572 m.y.
+Uncompensated deficit of 5.552e-09 g at index (25,45,102) at time 22.584 m.y.
+Uncompensated deficit of 1.93874e-09 g at index (100,54,59) at time 22.592 m.y.
+Uncompensated deficit of 3.96993e-09 g at index (106,19,68) at time 22.594 m.y.
+Uncompensated deficit of 1.1574e-09 g at index (99,52,60) at time 22.596 m.y.
+Uncompensated deficit of 9.57636e-09 g at index (26,46,102) at time 22.596 m.y.
+Uncompensated deficit of 5.76313e-09 g at index (100,53,60) at time 22.614 m.y.
+Uncompensated deficit of 7.63148e-09 g at index (28,47,103) at time 22.614 m.y.
+Uncompensated deficit of 3.06168e-09 g at index (25,48,99) at time 22.616 m.y.
+Uncompensated deficit of 3.18223e-09 g at index (54,115,45) at time 22.618 m.y.
+Uncompensated deficit of 1.1821e-08 g at index (100,55,58) at time 22.622 m.y.
+Uncompensated deficit of 4.29317e-10 g at index (24,47,99) at time 22.624 m.y.
+Uncompensated deficit of 7.31552e-09 g at index (29,47,105) at time 22.626 m.y.
+Uncompensated deficit of 1.36484e-08 g at index (27,47,102) at time 22.628 m.y.
+Uncompensated deficit of 3.1535e-09 g at index (23,43,103) at time 22.628 m.y.
+Uncompensated deficit of 8.20441e-09 g at index (25,46,101) at time 22.638 m.y.
+Uncompensated deficit of 7.48718e-09 g at index (105,21,68) at time 22.646 m.y.
+Uncompensated deficit of 1.04441e-08 g at index (24,45,101) at time 22.646 m.y.
+Uncompensated deficit of 1.01985e-09 g at index (53,115,44) at time 22.652 m.y.
+Uncompensated deficit of 5.32065e-09 g at index (53,114,45) at time 22.652 m.y.
+Uncompensated deficit of 1.57095e-08 g at index (26,47,101) at time 22.652 m.y.
+Uncompensated deficit of 4.07794e-09 g at index (54,116,44) at time 22.654 m.y.
+Uncompensated deficit of 6.23546e-09 g at index (55,116,46) at time 22.658 m.y.
+Uncompensated deficit of 9.10641e-09 g at index (25,47,100) at time 22.660 m.y.
+Uncompensated deficit of 6.65233e-09 g at index (16,130,3) at time 22.666 m.y.
+Uncompensated deficit of 1.83608e-08 g at index (24,46,100) at time 22.668 m.y.
+Uncompensated deficit of 1.011e-08 g at index (29,48,103) at time 22.674 m.y.
+Uncompensated deficit of 1.03861e-08 g at index (32,53,94) at time 22.682 m.y.
+Uncompensated deficit of 1.2718e-08 g at index (104,20,67) at time 22.686 m.y.
+Uncompensated deficit of 1.21912e-08 g at index (30,48,104) at time 22.690 m.y.
+Uncompensated deficit of 2.83098e-09 g at index (40,6,42) at time 22.692 m.y.
+Uncompensated deficit of 3.48785e-09 g at index (54,114,47) at time 22.694 m.y.
+Uncompensated deficit of 9.37485e-09 g at index (15,130,2) at time 22.700 m.y.
+Uncompensated deficit of 6.56358e-09 g at index (55,115,47) at time 22.702 m.y.
+Uncompensated deficit of 5.6912e-09 g at index (100,57,124) at time 22.702 m.y.
+Uncompensated deficit of 3.77125e-09 g at index (43,8,44) at time 22.704 m.y.
+Uncompensated deficit of 5.40163e-09 g at index (52,114,44) at time 22.706 m.y.
+Uncompensated deficit of 3.58557e-09 g at index (55,117,44) at time 22.708 m.y.
+Uncompensated deficit of 3.81692e-09 g at index (100,58,123) at time 22.710 m.y.
+Uncompensated deficit of 1.2017e-08 g at index (22,41,105) at time 22.728 m.y.
+Uncompensated deficit of 6.88325e-09 g at index (101,57,125) at time 22.730 m.y.
+Uncompensated deficit of 6.08859e-09 g at index (54,117,43) at time 22.734 m.y.
+Uncompensated deficit of 3.5324e-09 g at index (52,113,45) at time 22.734 m.y.
+Uncompensated deficit of 2.02444e-09 g at index (103,21,67) at time 22.734 m.y.
+Uncompensated deficit of 3.36146e-09 g at index (32,50,104) at time 22.734 m.y.
+Uncompensated deficit of 5.28357e-09 g at index (15,131,4) at time 22.742 m.y.
+Uncompensated deficit of 1.02703e-08 g at index (31,49,104) at time 22.746 m.y.
+Uncompensated deficit of 4.24477e-09 g at index (99,56,125) at time 22.748 m.y.
+Time = 22750000.000000, delC = 2.83396e-07, NuclRate = 1.27318e-13
+Uncompensated deficit of 6.82801e-09 g at index (56,117,46) at time 22.750 m.y.
+Uncompensated deficit of 5.62555e-09 g at index (56,116,47) at time 22.760 m.y.
+Uncompensated deficit of 8.6053e-11 g at index (31,50,102) at time 22.760 m.y.
+Uncompensated deficit of 6.66718e-10 g at index (98,56,124) at time 22.762 m.y.
+Uncompensated deficit of 1.02098e-08 g at index (103,19,66) at time 22.768 m.y.
+Uncompensated deficit of 2.40385e-09 g at index (100,56,126) at time 22.768 m.y.
+Uncompensated deficit of 7.46745e-09 g at index (101,59,122) at time 22.772 m.y.
+Uncompensated deficit of 8.6698e-09 g at index (31,54,95) at time 22.774 m.y.
+Uncompensated deficit of 2.71397e-08 g at index (30,50,101) at time 22.784 m.y.
+Uncompensated deficit of 8.50253e-09 g at index (102,59,123) at time 22.786 m.y.
+Uncompensated deficit of 5.96773e-09 g at index (102,22,67) at time 22.788 m.y.
+Uncompensated deficit of 1.14619e-08 g at index (31,55,94) at time 22.792 m.y.
+Uncompensated deficit of 2.26689e-09 g at index (100,59,121) at time 22.796 m.y.
+Uncompensated deficit of 6.86439e-09 g at index (51,113,44) at time 22.810 m.y.
+Uncompensated deficit of 9.25007e-09 g at index (102,20,66) at time 22.810 m.y.
+Uncompensated deficit of 2.0029e-08 g at index (30,51,100) at time 22.810 m.y.
+Uncompensated deficit of 3.40555e-09 g at index (54,113,48) at time 22.812 m.y.
+Uncompensated deficit of 5.21667e-09 g at index (97,56,123) at time 22.812 m.y.
+Uncompensated deficit of 7.40416e-09 g at index (55,118,43) at time 22.816 m.y.
+Uncompensated deficit of 8.15338e-10 g at index (101,56,127) at time 22.818 m.y.
+Uncompensated deficit of 2.10533e-08 g at index (30,52,99) at time 22.828 m.y.
+Uncompensated deficit of 3.04742e-08 g at index (30,53,98) at time 22.844 m.y.
+Uncompensated deficit of 1.25832e-08 g at index (101,21,66) at time 22.862 m.y.
+Uncompensated deficit of 7.81555e-09 g at index (51,112,45) at time 22.864 m.y.
+Uncompensated deficit of 5.02947e-09 g at index (57,117,47) at time 22.868 m.y.
+Uncompensated deficit of 8.17995e-09 g at index (95,53,124) at time 22.870 m.y.
+Uncompensated deficit of 2.79304e-09 g at index (29,55,97) at time 22.880 m.y.
+Uncompensated deficit of 4.97645e-09 g at index (96,55,123) at time 22.882 m.y.
+Uncompensated deficit of 4.6522e-09 g at index (102,60,121) at time 22.892 m.y.
+Uncompensated deficit of 3.41458e-09 g at index (96,54,124) at time 22.892 m.y.
+Uncompensated deficit of 6.79652e-09 g at index (95,54,123) at time 22.898 m.y.
+Uncompensated deficit of 4.79041e-10 g at index (131,58,131) at time 22.918 m.y.
+Uncompensated deficit of 5.58818e-09 g at index (132,57,130) at time 22.926 m.y.
+Uncompensated deficit of 9.85896e-09 g at index (133,57,128) at time 22.946 m.y.
+Uncompensated deficit of 8.71883e-10 g at index (83,66,73) at time 22.954 m.y.
+Uncompensated deficit of 6.27185e-09 g at index (105,59,127) at time 22.960 m.y.
+Uncompensated deficit of 2.35748e-09 g at index (133,56,129) at time 22.962 m.y.
+Uncompensated deficit of 4.58358e-09 g at index (82,66,72) at time 22.972 m.y.
+Uncompensated deficit of 5.46005e-09 g at index (29,101,132) at time 22.978 m.y.
+Uncompensated deficit of 3.92858e-10 g at index (30,100,134) at time 22.980 m.y.
+Uncompensated deficit of 9.52777e-09 g at index (30,99,132) at time 22.994 m.y.
+Uncompensated deficit of 7.58243e-09 g at index (105,58,131) at time 22.996 m.y.
+Uncompensated deficit of 9.02005e-09 g at index (134,56,128) at time 22.998 m.y.
+Time = 23000000.000000, delC = 2.8676e-07, NuclRate = 1.31083e-13
+Uncompensated deficit of 3.40972e-09 g at index (82,65,73) at time 23.004 m.y.
+Uncompensated deficit of 8.57789e-09 g at index (84,68,73) at time 23.004 m.y.
+Uncompensated deficit of 1.06006e-08 g at index (134,55,129) at time 23.006 m.y.
+Uncompensated deficit of 8.39516e-09 g at index (29,100,130) at time 23.006 m.y.
+Uncompensated deficit of 4.93253e-09 g at index (25,126,5) at time 23.008 m.y.
+Uncompensated deficit of 7.30541e-09 g at index (83,65,74) at time 23.020 m.y.
+Uncompensated deficit of 2.18661e-08 g at index (136,58,125) at time 23.022 m.y.
+Uncompensated deficit of 2.46223e-08 g at index (136,57,126) at time 23.022 m.y.
+Uncompensated deficit of 5.302e-09 g at index (136,56,127) at time 23.022 m.y.
+Uncompensated deficit of 3.93476e-10 g at index (135,55,128) at time 23.030 m.y.
+Uncompensated deficit of 1.17972e-09 g at index (26,125,6) at time 23.032 m.y.
+Uncompensated deficit of 2.4505e-09 g at index (24,127,5) at time 23.036 m.y.
+Uncompensated deficit of 8.34758e-09 g at index (26,126,7) at time 23.038 m.y.
+Uncompensated deficit of 8.49178e-10 g at index (25,127,7) at time 23.038 m.y.
+Uncompensated deficit of 2.45576e-08 g at index (137,54,128) at time 23.038 m.y.
+Uncompensated deficit of 1.16991e-09 g at index (81,66,71) at time 23.046 m.y.
+Uncompensated deficit of 8.58345e-10 g at index (81,65,72) at time 23.046 m.y.
+Uncompensated deficit of 1.61244e-08 g at index (135,54,130) at time 23.046 m.y.
+Uncompensated deficit of 1.81347e-09 g at index (78,40,42) at time 23.050 m.y.
+Uncompensated deficit of 2.76928e-08 g at index (136,54,129) at time 23.052 m.y.
+Uncompensated deficit of 6.81928e-09 g at index (79,40,41) at time 23.064 m.y.
+Uncompensated deficit of 3.64654e-09 g at index (138,53,129) at time 23.064 m.y.
+Uncompensated deficit of 1.17013e-09 g at index (25,125,3) at time 23.068 m.y.
+Uncompensated deficit of 5.61349e-09 g at index (22,128,3) at time 23.068 m.y.
+Uncompensated deficit of 6.41168e-09 g at index (84,69,72) at time 23.070 m.y.
+Uncompensated deficit of 1.90793e-08 g at index (137,53,130) at time 23.086 m.y.
+Uncompensated deficit of 1.9893e-08 g at index (23,127,2) at time 23.092 m.y.
+Uncompensated deficit of 6.89596e-09 g at index (77,40,43) at time 23.096 m.y.
+Uncompensated deficit of 5.68513e-09 g at index (27,124,6) at time 23.102 m.y.
+Uncompensated deficit of 3.86774e-09 g at index (80,39,40) at time 23.134 m.y.
+Uncompensated deficit of 9.33243e-09 g at index (80,65,71) at time 23.144 m.y.
+Uncompensated deficit of 1.01614e-08 g at index (129,72,123) at time 23.180 m.y.
+Uncompensated deficit of 7.83015e-09 g at index (124,16,90) at time 23.192 m.y.
+Uncompensated deficit of 1.82129e-08 g at index (125,17,91) at time 23.212 m.y.
+Time = 23250000.000000, delC = 2.90129e-07, NuclRate = 1.3484e-13
+Uncompensated deficit of 2.51345e-10 g at index (107,4,39) at time 23.324 m.y.
+Uncompensated deficit of 4.3118e-09 g at index (47,24,81) at time 23.360 m.y.
+Uncompensated deficit of 7.77729e-09 g at index (46,25,80) at time 23.376 m.y.
+Uncompensated deficit of 5.50169e-09 g at index (112,119,93) at time 23.382 m.y.
+Uncompensated deficit of 4.40898e-09 g at index (113,120,94) at time 23.398 m.y.
+Uncompensated deficit of 2.33858e-09 g at index (45,24,80) at time 23.408 m.y.
+Uncompensated deficit of 1.3477e-09 g at index (111,118,92) at time 23.418 m.y.
+Uncompensated deficit of 1.35587e-09 g at index (126,34,44) at time 23.422 m.y.
+Uncompensated deficit of 4.40108e-09 g at index (127,33,44) at time 23.436 m.y.
+Uncompensated deficit of 6.33546e-10 g at index (126,33,43) at time 23.440 m.y.
+Uncompensated deficit of 5.28269e-09 g at index (20,18,101) at time 23.440 m.y.
+Uncompensated deficit of 2.06397e-09 g at index (19,18,100) at time 23.444 m.y.
+Uncompensated deficit of 7.62565e-09 g at index (19,19,102) at time 23.446 m.y.
+Uncompensated deficit of 4.50503e-09 g at index (127,34,45) at time 23.448 m.y.
+Uncompensated deficit of 2.91856e-10 g at index (18,19,101) at time 23.448 m.y.
+Uncompensated deficit of 1.07557e-08 g at index (111,120,91) at time 23.454 m.y.
+Uncompensated deficit of 3.34975e-09 g at index (21,18,102) at time 23.458 m.y.
+Uncompensated deficit of 5.17929e-09 g at index (20,19,103) at time 23.466 m.y.
+Uncompensated deficit of 5.78251e-09 g at index (127,32,43) at time 23.470 m.y.
+Uncompensated deficit of 7.27273e-09 g at index (109,128,90) at time 23.470 m.y.
+Uncompensated deficit of 3.43405e-09 g at index (44,15,114) at time 23.472 m.y.
+Uncompensated deficit of 8.00161e-09 g at index (108,129,90) at time 23.474 m.y.
+Uncompensated deficit of 3.83014e-09 g at index (114,119,96) at time 23.478 m.y.
+Uncompensated deficit of 6.21238e-09 g at index (110,137,120) at time 23.482 m.y.
+Uncompensated deficit of 3.81278e-09 g at index (21,17,100) at time 23.484 m.y.
+Uncompensated deficit of 5.90507e-09 g at index (108,127,89) at time 23.486 m.y.
+Uncompensated deficit of 8.53133e-09 g at index (18,20,103) at time 23.492 m.y.
+Uncompensated deficit of 8.59104e-09 g at index (107,128,89) at time 23.494 m.y.
+Uncompensated deficit of 4.62113e-09 g at index (20,17,99) at time 23.494 m.y.
+Uncompensated deficit of 1.15305e-08 g at index (103,117,19) at time 23.498 m.y.
+Uncompensated deficit of 4.74136e-09 g at index (126,32,42) at time 23.498 m.y.
+Time = 23500000.000000, delC = 2.93502e-07, NuclRate = 1.38585e-13
+Uncompensated deficit of 2.55614e-09 g at index (124,34,43) at time 23.502 m.y.
+Uncompensated deficit of 2.79146e-09 g at index (119,102,110) at time 23.502 m.y.
+Uncompensated deficit of 6.09337e-09 g at index (127,35,46) at time 23.506 m.y.
+Uncompensated deficit of 1.99952e-10 g at index (118,101,110) at time 23.506 m.y.
+Uncompensated deficit of 8.20634e-09 g at index (25,32,38) at time 23.508 m.y.
+Uncompensated deficit of 9.83034e-09 g at index (114,122,94) at time 23.508 m.y.
+Uncompensated deficit of 5.38417e-09 g at index (110,129,91) at time 23.510 m.y.
+Uncompensated deficit of 2.20493e-09 g at index (109,130,91) at time 23.510 m.y.
+Uncompensated deficit of 1.0604e-08 g at index (19,20,104) at time 23.510 m.y.
+Uncompensated deficit of 3.68631e-09 g at index (124,35,44) at time 23.514 m.y.
+Uncompensated deficit of 9.01438e-09 g at index (22,18,104) at time 23.516 m.y.
+Uncompensated deficit of 5.62589e-09 g at index (110,119,90) at time 23.520 m.y.
+Uncompensated deficit of 7.09044e-09 g at index (104,116,20) at time 23.524 m.y.
+Uncompensated deficit of 2.3097e-09 g at index (23,32,37) at time 23.526 m.y.
+Uncompensated deficit of 7.15829e-09 g at index (109,125,89) at time 23.532 m.y.
+Uncompensated deficit of 9.79825e-09 g at index (19,17,98) at time 23.532 m.y.
+Uncompensated deficit of 8.29934e-09 g at index (24,31,39) at time 23.536 m.y.
+Uncompensated deficit of 7.4582e-09 g at index (111,128,91) at time 23.540 m.y.
+Uncompensated deficit of 6.68405e-09 g at index (127,31,42) at time 23.542 m.y.
+Uncompensated deficit of 1.17075e-08 g at index (20,20,105) at time 23.546 m.y.
+Uncompensated deficit of 9.4697e-09 g at index (108,131,91) at time 23.548 m.y.
+Uncompensated deficit of 2.78567e-09 g at index (43,116,116) at time 23.560 m.y.
+Uncompensated deficit of 1.5875e-09 g at index (32,39,41) at time 23.562 m.y.
+Uncompensated deficit of 8.42324e-09 g at index (111,124,90) at time 23.564 m.y.
+Uncompensated deficit of 3.69696e-10 g at index (31,38,39) at time 23.570 m.y.
+Uncompensated deficit of 7.66847e-09 g at index (124,36,45) at time 23.570 m.y.
+Uncompensated deficit of 1.53534e-08 g at index (110,123,89) at time 23.576 m.y.
+Uncompensated deficit of 1.15502e-08 g at index (22,16,99) at time 23.576 m.y.
+Uncompensated deficit of 4.44266e-09 g at index (107,125,88) at time 23.578 m.y.
+Uncompensated deficit of 6.0341e-09 g at index (126,31,41) at time 23.586 m.y.
+Uncompensated deficit of 3.41585e-09 g at index (111,131,92) at time 23.588 m.y.
+Uncompensated deficit of 7.28847e-09 g at index (57,10,129) at time 23.590 m.y.
+Uncompensated deficit of 4.07896e-09 g at index (123,35,43) at time 23.596 m.y.
+Uncompensated deficit of 1.06891e-08 g at index (79,61,108) at time 23.602 m.y.
+Uncompensated deficit of 1.72094e-09 g at index (109,10,43) at time 23.606 m.y.
+Uncompensated deficit of 9.52766e-09 g at index (112,130,92) at time 23.606 m.y.
+Uncompensated deficit of 4.45543e-09 g at index (123,34,42) at time 23.608 m.y.
+Uncompensated deficit of 8.12059e-09 g at index (113,90,85) at time 23.620 m.y.
+Uncompensated deficit of 1.31866e-08 g at index (21,20,107) at time 23.628 m.y.
+Uncompensated deficit of 6.90791e-09 g at index (24,30,40) at time 23.630 m.y.
+Uncompensated deficit of 6.28185e-09 g at index (58,8,130) at time 23.632 m.y.
+Uncompensated deficit of 8.15481e-09 g at index (98,72,70) at time 23.634 m.y.
+Uncompensated deficit of 5.54608e-09 g at index (116,121,97) at time 23.638 m.y.
+Uncompensated deficit of 6.88378e-09 g at index (127,30,41) at time 23.640 m.y.
+Uncompensated deficit of 1.07375e-08 g at index (108,9,44) at time 23.654 m.y.
+Uncompensated deficit of 1.04644e-08 g at index (108,11,42) at time 23.656 m.y.
+Uncompensated deficit of 5.3415e-09 g at index (67,70,87) at time 23.666 m.y.
+Uncompensated deficit of 2.53069e-09 g at index (6,34,37) at time 23.682 m.y.
+Uncompensated deficit of 3.45929e-09 g at index (68,69,88) at time 23.688 m.y.
+Uncompensated deficit of 1.0954e-08 g at index (112,133,93) at time 23.690 m.y.
+Uncompensated deficit of 9.09017e-09 g at index (126,30,40) at time 23.694 m.y.
+Uncompensated deficit of 1.15068e-09 g at index (25,15,102) at time 23.698 m.y.
+Uncompensated deficit of 1.10346e-08 g at index (117,122,97) at time 23.704 m.y.
+Uncompensated deficit of 3.9894e-09 g at index (68,66,87) at time 23.710 m.y.
+Uncompensated deficit of 2.27659e-09 g at index (110,11,41) at time 23.712 m.y.
+Uncompensated deficit of 8.64401e-09 g at index (111,11,40) at time 23.714 m.y.
+Uncompensated deficit of 1.27445e-08 g at index (113,126,44) at time 23.714 m.y.
+Uncompensated deficit of 2.72366e-09 g at index (113,128,47) at time 23.716 m.y.
+Uncompensated deficit of 1.18916e-08 g at index (111,10,41) at time 23.722 m.y.
+Uncompensated deficit of 8.17668e-09 g at index (66,67,85) at time 23.722 m.y.
+Uncompensated deficit of 7.87562e-09 g at index (112,128,46) at time 23.730 m.y.
+Uncompensated deficit of 2.14521e-09 g at index (112,9,41) at time 23.740 m.y.
+Uncompensated deficit of 6.77076e-09 g at index (111,128,45) at time 23.740 m.y.
+Uncompensated deficit of 1.39946e-08 g at index (7,34,36) at time 23.744 m.y.
+Uncompensated deficit of 8.75454e-09 g at index (71,96,58) at time 23.744 m.y.
+Time = 23750000.000000, delC = 2.96881e-07, NuclRate = 1.42317e-13
+Uncompensated deficit of 4.09402e-09 g at index (69,66,88) at time 23.750 m.y.
+Uncompensated deficit of 3.42475e-09 g at index (69,69,89) at time 23.752 m.y.
+Uncompensated deficit of 4.93904e-09 g at index (127,29,40) at time 23.754 m.y.
+Uncompensated deficit of 7.24561e-09 g at index (112,126,43) at time 23.762 m.y.
+Uncompensated deficit of 1.05644e-08 g at index (114,8,41) at time 23.764 m.y.
+Uncompensated deficit of 9.86863e-09 g at index (110,128,44) at time 23.764 m.y.
+Uncompensated deficit of 1.05168e-08 g at index (15,39,85) at time 23.768 m.y.
+Uncompensated deficit of 1.64754e-08 g at index (121,107,45) at time 23.774 m.y.
+Uncompensated deficit of 7.18533e-09 g at index (111,129,46) at time 23.774 m.y.
+Uncompensated deficit of 4.67141e-09 g at index (15,42,83) at time 23.774 m.y.
+Uncompensated deficit of 3.6413e-09 g at index (15,40,84) at time 23.776 m.y.
+Uncompensated deficit of 3.2515e-09 g at index (32,125,23) at time 23.780 m.y.
+Uncompensated deficit of 1.62492e-08 g at index (8,33,36) at time 23.780 m.y.
+Uncompensated deficit of 2.6595e-09 g at index (110,129,45) at time 23.780 m.y.
+Uncompensated deficit of 3.54468e-09 g at index (65,68,84) at time 23.782 m.y.
+Uncompensated deficit of 7.3293e-09 g at index (61,133,105) at time 23.784 m.y.
+Uncompensated deficit of 3.2114e-09 g at index (113,129,48) at time 23.788 m.y.
+Uncompensated deficit of 4.8497e-09 g at index (16,40,83) at time 23.788 m.y.
+Uncompensated deficit of 3.44208e-09 g at index (14,43,84) at time 23.796 m.y.
+Uncompensated deficit of 1.10337e-08 g at index (16,41,82) at time 23.798 m.y.
+Uncompensated deficit of 9.59392e-09 g at index (122,109,44) at time 23.806 m.y.
+Uncompensated deficit of 2.21172e-09 g at index (73,96,59) at time 23.806 m.y.
+Uncompensated deficit of 1.51245e-08 g at index (14,41,85) at time 23.806 m.y.
+Uncompensated deficit of 1.69229e-08 g at index (122,107,46) at time 23.808 m.y.
+Uncompensated deficit of 9.18072e-09 g at index (83,61,103) at time 23.808 m.y.
+Uncompensated deficit of 1.61201e-10 g at index (109,129,44) at time 23.812 m.y.
+Uncompensated deficit of 1.21784e-08 g at index (14,44,83) at time 23.816 m.y.
+Uncompensated deficit of 1.93904e-08 g at index (14,40,86) at time 23.816 m.y.
+Uncompensated deficit of 1.03896e-11 g at index (111,126,42) at time 23.818 m.y.
+Uncompensated deficit of 9.92411e-10 g at index (82,62,102) at time 23.818 m.y.
+Uncompensated deficit of 4.29965e-09 g at index (132,72,116) at time 23.820 m.y.
+Uncompensated deficit of 3.20565e-09 g at index (120,123,98) at time 23.856 m.y.
+Uncompensated deficit of 4.82902e-09 g at index (13,42,86) at time 23.872 m.y.
+Uncompensated deficit of 4.81633e-09 g at index (108,129,43) at time 23.878 m.y.
+Uncompensated deficit of 1.11113e-08 g at index (13,45,84) at time 23.882 m.y.
+Uncompensated deficit of 5.70631e-10 g at index (64,69,83) at time 23.896 m.y.
+Uncompensated deficit of 1.39737e-09 g at index (121,124,98) at time 23.906 m.y.
+Uncompensated deficit of 2.70658e-09 g at index (71,67,90) at time 23.908 m.y.
+Uncompensated deficit of 6.53616e-09 g at index (11,47,63) at time 23.918 m.y.
+Uncompensated deficit of 5.41994e-09 g at index (63,136,101) at time 23.918 m.y.
+Uncompensated deficit of 1.33214e-08 g at index (81,56,101) at time 23.920 m.y.
+Uncompensated deficit of 8.9968e-09 g at index (126,17,73) at time 23.934 m.y.
+Uncompensated deficit of 1.59532e-08 g at index (81,58,103) at time 23.934 m.y.
+Uncompensated deficit of 3.80712e-09 g at index (29,34,38) at time 23.942 m.y.
+Uncompensated deficit of 8.26249e-09 g at index (122,125,98) at time 23.952 m.y.
+Uncompensated deficit of 5.46755e-10 g at index (127,18,72) at time 23.954 m.y.
+Uncompensated deficit of 1.15979e-08 g at index (82,56,103) at time 23.982 m.y.
+Uncompensated deficit of 2.30892e-08 g at index (108,41,102) at time 23.992 m.y.
+Uncompensated deficit of 1.11209e-08 g at index (35,85,97) at time 23.996 m.y.
+Time = 24000000.000000, delC = 3.00264e-07, NuclRate = 1.46035e-13
+Uncompensated deficit of 7.07477e-09 g at index (36,85,98) at time 24.002 m.y.
+Uncompensated deficit of 5.32977e-09 g at index (123,127,98) at time 24.002 m.y.
+Uncompensated deficit of 1.7376e-08 g at index (123,125,99) at time 24.012 m.y.
+Uncompensated deficit of 8.74774e-09 g at index (34,86,97) at time 24.024 m.y.
+Uncompensated deficit of 7.18334e-09 g at index (35,86,98) at time 24.026 m.y.
+Uncompensated deficit of 1.25663e-08 g at index (34,85,96) at time 24.028 m.y.
+Uncompensated deficit of 2.68874e-09 g at index (92,130,43) at time 24.032 m.y.
+Uncompensated deficit of 9.08294e-10 g at index (124,127,99) at time 24.044 m.y.
+Uncompensated deficit of 1.96821e-09 g at index (91,129,42) at time 24.054 m.y.
+Uncompensated deficit of 2.23026e-09 g at index (93,131,44) at time 24.072 m.y.
+Uncompensated deficit of 3.67025e-09 g at index (89,75,73) at time 24.082 m.y.
+Uncompensated deficit of 4.45959e-09 g at index (89,74,74) at time 24.092 m.y.
+Uncompensated deficit of 2.7061e-09 g at index (88,78,83) at time 24.100 m.y.
+Uncompensated deficit of 1.27765e-08 g at index (125,127,100) at time 24.102 m.y.
+Uncompensated deficit of 3.28084e-09 g at index (91,131,45) at time 24.104 m.y.
+Uncompensated deficit of 2.81571e-09 g at index (127,102,69) at time 24.108 m.y.
+Uncompensated deficit of 1.77787e-09 g at index (14,19,125) at time 24.120 m.y.
+Uncompensated deficit of 2.88811e-10 g at index (122,130,13) at time 24.122 m.y.
+Uncompensated deficit of 9.67536e-09 g at index (88,75,71) at time 24.122 m.y.
+Uncompensated deficit of 4.84881e-09 g at index (14,20,124) at time 24.122 m.y.
+Uncompensated deficit of 6.66579e-09 g at index (94,131,43) at time 24.124 m.y.
+Uncompensated deficit of 8.25083e-09 g at index (122,131,12) at time 24.136 m.y.
+Uncompensated deficit of 8.81228e-09 g at index (123,130,12) at time 24.144 m.y.
+Uncompensated deficit of 3.62341e-09 g at index (121,131,13) at time 24.144 m.y.
+Uncompensated deficit of 2.52048e-09 g at index (90,128,41) at time 24.146 m.y.
+Uncompensated deficit of 4.95082e-09 g at index (123,129,13) at time 24.160 m.y.
+Uncompensated deficit of 5.41063e-09 g at index (121,130,14) at time 24.160 m.y.
+Uncompensated deficit of 3.46677e-09 g at index (18,19,124) at time 24.162 m.y.
+Uncompensated deficit of 2.86089e-09 g at index (93,132,45) at time 24.164 m.y.
+Uncompensated deficit of 3.05131e-09 g at index (122,129,14) at time 24.168 m.y.
+Uncompensated deficit of 1.01153e-09 g at index (126,127,101) at time 24.176 m.y.
+Uncompensated deficit of 5.35648e-10 g at index (123,131,11) at time 24.180 m.y.
+Uncompensated deficit of 9.33989e-09 g at index (121,132,12) at time 24.182 m.y.
+Uncompensated deficit of 1.14485e-09 g at index (123,25,36) at time 24.182 m.y.
+Uncompensated deficit of 7.31305e-09 g at index (123,24,35) at time 24.186 m.y.
+Uncompensated deficit of 1.18078e-08 g at index (122,26,36) at time 24.188 m.y.
+Uncompensated deficit of 7.61156e-09 g at index (122,25,35) at time 24.192 m.y.
+Uncompensated deficit of 5.85148e-09 g at index (92,132,46) at time 24.196 m.y.
+Uncompensated deficit of 6.42692e-09 g at index (122,132,11) at time 24.200 m.y.
+Uncompensated deficit of 4.35252e-09 g at index (68,64,71) at time 24.202 m.y.
+Uncompensated deficit of 7.55908e-09 g at index (48,34,44) at time 24.204 m.y.
+Uncompensated deficit of 5.83072e-09 g at index (68,63,73) at time 24.204 m.y.
+Uncompensated deficit of 4.72832e-09 g at index (69,63,71) at time 24.208 m.y.
+Uncompensated deficit of 2.74353e-09 g at index (127,101,71) at time 24.208 m.y.
+Uncompensated deficit of 3.63233e-09 g at index (67,64,73) at time 24.214 m.y.
+Uncompensated deficit of 1.6572e-09 g at index (121,129,15) at time 24.224 m.y.
+Uncompensated deficit of 6.91316e-09 g at index (123,128,14) at time 24.228 m.y.
+Uncompensated deficit of 1.03536e-08 g at index (69,62,73) at time 24.228 m.y.
+Uncompensated deficit of 5.1464e-09 g at index (69,64,70) at time 24.232 m.y.
+Uncompensated deficit of 9.70709e-09 g at index (70,62,72) at time 24.238 m.y.
+Uncompensated deficit of 5.29741e-09 g at index (68,65,70) at time 24.240 m.y.
+Uncompensated deficit of 4.273e-09 g at index (67,63,74) at time 24.242 m.y.
+Uncompensated deficit of 5.41063e-09 g at index (68,62,74) at time 24.244 m.y.
+Time = 24250000.000000, delC = 3.03653e-07, NuclRate = 1.49735e-13
+Uncompensated deficit of 5.69751e-09 g at index (122,128,15) at time 24.256 m.y.
+Uncompensated deficit of 4.75563e-09 g at index (15,22,122) at time 24.260 m.y.
+Uncompensated deficit of 8.88229e-10 g at index (121,133,11) at time 24.266 m.y.
+Uncompensated deficit of 1.1847e-08 g at index (112,102,77) at time 24.266 m.y.
+Uncompensated deficit of 1.84144e-09 g at index (123,132,10) at time 24.268 m.y.
+Uncompensated deficit of 1.00968e-08 g at index (66,64,74) at time 24.272 m.y.
+Uncompensated deficit of 1.26921e-08 g at index (70,61,73) at time 24.276 m.y.
+Uncompensated deficit of 5.47317e-09 g at index (69,65,69) at time 24.282 m.y.
+Uncompensated deficit of 7.50893e-09 g at index (113,101,77) at time 24.286 m.y.
+Uncompensated deficit of 1.12594e-08 g at index (112,101,79) at time 24.288 m.y.
+Uncompensated deficit of 6.50819e-09 g at index (70,64,69) at time 24.290 m.y.
+Uncompensated deficit of 1.40958e-08 g at index (71,61,72) at time 24.300 m.y.
+Uncompensated deficit of 7.37992e-09 g at index (67,62,76) at time 24.300 m.y.
+Uncompensated deficit of 1.11667e-08 g at index (111,101,81) at time 24.306 m.y.
+Uncompensated deficit of 1.05318e-08 g at index (111,102,79) at time 24.314 m.y.
+Uncompensated deficit of 1.19932e-08 g at index (96,68,78) at time 24.318 m.y.
+Uncompensated deficit of 7.72948e-09 g at index (68,61,77) at time 24.320 m.y.
+Uncompensated deficit of 6.72867e-09 g at index (7,59,52) at time 24.324 m.y.
+Uncompensated deficit of 1.52447e-08 g at index (129,100,73) at time 24.324 m.y.
+Uncompensated deficit of 1.33769e-08 g at index (66,62,77) at time 24.326 m.y.
+Uncompensated deficit of 1.35944e-08 g at index (67,61,78) at time 24.326 m.y.
+Uncompensated deficit of 5.83451e-09 g at index (65,65,74) at time 24.330 m.y.
+Uncompensated deficit of 9.0107e-10 g at index (70,60,75) at time 24.338 m.y.
+Uncompensated deficit of 9.41436e-09 g at index (72,61,71) at time 24.342 m.y.
+Uncompensated deficit of 1.5674e-08 g at index (65,63,77) at time 24.344 m.y.
+Uncompensated deficit of 2.49937e-09 g at index (127,48,49) at time 24.350 m.y.
+Uncompensated deficit of 8.14689e-09 g at index (69,60,77) at time 24.358 m.y.
+Uncompensated deficit of 1.58817e-08 g at index (110,102,81) at time 24.372 m.y.
+Uncompensated deficit of 2.04876e-09 g at index (56,121,121) at time 24.374 m.y.
+Uncompensated deficit of 6.16244e-09 g at index (55,121,122) at time 24.376 m.y.
+Uncompensated deficit of 1.97957e-09 g at index (94,68,79) at time 24.380 m.y.
+Uncompensated deficit of 3.86429e-09 g at index (56,122,122) at time 24.384 m.y.
+Uncompensated deficit of 1.2853e-08 g at index (95,67,79) at time 24.392 m.y.
+Uncompensated deficit of 8.42653e-09 g at index (73,61,69) at time 24.394 m.y.
+Uncompensated deficit of 5.25127e-09 g at index (64,40,47) at time 24.396 m.y.
+Uncompensated deficit of 9.26459e-09 g at index (57,3,41) at time 24.398 m.y.
+Uncompensated deficit of 3.71086e-09 g at index (62,40,46) at time 24.402 m.y.
+Uncompensated deficit of 9.60094e-09 g at index (74,60,70) at time 24.402 m.y.
+Uncompensated deficit of 1.47965e-08 g at index (73,60,71) at time 24.402 m.y.
+Uncompensated deficit of 2.78157e-09 g at index (102,61,8) at time 24.404 m.y.
+Uncompensated deficit of 1.09635e-08 g at index (64,42,46) at time 24.410 m.y.
+Uncompensated deficit of 5.8676e-09 g at index (74,62,67) at time 24.410 m.y.
+Uncompensated deficit of 1.29389e-08 g at index (64,66,74) at time 24.410 m.y.
+Uncompensated deficit of 1.19344e-08 g at index (63,41,46) at time 24.412 m.y.
+Uncompensated deficit of 4.24994e-09 g at index (65,41,47) at time 24.412 m.y.
+Uncompensated deficit of 5.03533e-09 g at index (70,59,79) at time 24.412 m.y.
+Uncompensated deficit of 2.52503e-09 g at index (57,2,40) at time 24.414 m.y.
+Uncompensated deficit of 8.77931e-09 g at index (65,43,46) at time 24.414 m.y.
+Uncompensated deficit of 1.89807e-08 g at index (73,62,68) at time 24.414 m.y.
+Uncompensated deficit of 1.56679e-08 g at index (86,68,102) at time 24.414 m.y.
+Uncompensated deficit of 8.00952e-09 g at index (71,59,76) at time 24.416 m.y.
+Uncompensated deficit of 4.00636e-09 g at index (101,61,7) at time 24.420 m.y.
+Uncompensated deficit of 3.16568e-09 g at index (103,62,7) at time 24.420 m.y.
+Uncompensated deficit of 8.67921e-09 g at index (66,42,47) at time 24.424 m.y.
+Uncompensated deficit of 1.09022e-08 g at index (128,47,50) at time 24.424 m.y.
+Uncompensated deficit of 1.39822e-09 g at index (64,44,45) at time 24.428 m.y.
+Uncompensated deficit of 4.65196e-09 g at index (58,5,40) at time 24.430 m.y.
+Uncompensated deficit of 1.05346e-08 g at index (66,44,46) at time 24.432 m.y.
+Uncompensated deficit of 2.00081e-08 g at index (69,43,48) at time 24.436 m.y.
+Uncompensated deficit of 1.07808e-08 g at index (58,4,39) at time 24.438 m.y.
+Uncompensated deficit of 1.5915e-08 g at index (73,59,73) at time 24.438 m.y.
+Uncompensated deficit of 6.81548e-09 g at index (102,62,6) at time 24.440 m.y.
+Uncompensated deficit of 1.87211e-09 g at index (67,43,47) at time 24.440 m.y.
+Uncompensated deficit of 4.37189e-10 g at index (97,66,112) at time 24.444 m.y.
+Uncompensated deficit of 8.66156e-10 g at index (23,43,124) at time 24.448 m.y.
+Uncompensated deficit of 6.45744e-09 g at index (103,61,9) at time 24.450 m.y.
+Uncompensated deficit of 6.84345e-09 g at index (67,41,48) at time 24.450 m.y.
+Uncompensated deficit of 2.32387e-08 g at index (68,42,48) at time 24.452 m.y.
+Uncompensated deficit of 1.52783e-08 g at index (93,67,80) at time 24.454 m.y.
+Uncompensated deficit of 3.3023e-09 g at index (101,60,9) at time 24.456 m.y.
+Uncompensated deficit of 3.41862e-09 g at index (63,45,44) at time 24.456 m.y.
+Uncompensated deficit of 1.48275e-08 g at index (68,44,47) at time 24.456 m.y.
+Uncompensated deficit of 4.34692e-09 g at index (104,62,8) at time 24.460 m.y.
+Uncompensated deficit of 5.49508e-11 g at index (65,46,44) at time 24.460 m.y.
+Uncompensated deficit of 1.33e-08 g at index (61,41,45) at time 24.462 m.y.
+Uncompensated deficit of 1.00367e-08 g at index (69,45,47) at time 24.462 m.y.
+Uncompensated deficit of 1.97923e-08 g at index (94,66,80) at time 24.472 m.y.
+Uncompensated deficit of 9.86006e-09 g at index (62,44,44) at time 24.480 m.y.
+Uncompensated deficit of 4.98235e-09 g at index (67,46,45) at time 24.480 m.y.
+Uncompensated deficit of 5.77549e-10 g at index (63,46,43) at time 24.492 m.y.
+Uncompensated deficit of 4.08956e-09 g at index (65,47,43) at time 24.494 m.y.
+Uncompensated deficit of 1.52698e-08 g at index (69,46,46) at time 24.496 m.y.
+Time = 24500000.000000, delC = 3.07046e-07, NuclRate = 1.53418e-13
+Uncompensated deficit of 1.02902e-09 g at index (104,63,6) at time 24.502 m.y.
+Uncompensated deficit of 4.83468e-09 g at index (67,47,44) at time 24.508 m.y.
+Uncompensated deficit of 8.87717e-09 g at index (70,47,46) at time 24.514 m.y.
+Uncompensated deficit of 1.59725e-09 g at index (103,63,5) at time 24.520 m.y.
+Uncompensated deficit of 1.73526e-08 g at index (98,38,104) at time 24.524 m.y.
+Uncompensated deficit of 3.26682e-08 g at index (97,40,103) at time 24.526 m.y.
+Uncompensated deficit of 1.12452e-08 g at index (59,6,39) at time 24.528 m.y.
+Uncompensated deficit of 2.0368e-08 g at index (98,37,105) at time 24.528 m.y.
+Uncompensated deficit of 1.33384e-08 g at index (96,43,102) at time 24.532 m.y.
+Uncompensated deficit of 6.55771e-09 g at index (63,47,42) at time 24.534 m.y.
+Uncompensated deficit of 1.75619e-08 g at index (21,22,119) at time 24.534 m.y.
+Uncompensated deficit of 3.77377e-09 g at index (98,36,106) at time 24.536 m.y.
+Uncompensated deficit of 5.1921e-09 g at index (65,48,42) at time 24.538 m.y.
+Uncompensated deficit of 4.82812e-09 g at index (104,61,10) at time 24.540 m.y.
+Uncompensated deficit of 1.6855e-08 g at index (22,21,120) at time 24.544 m.y.
+Uncompensated deficit of 3.86431e-09 g at index (49,91,43) at time 24.556 m.y.
+Uncompensated deficit of 2.02942e-08 g at index (98,35,107) at time 24.556 m.y.
+Uncompensated deficit of 4.81305e-09 g at index (20,23,119) at time 24.556 m.y.
+Uncompensated deficit of 7.0788e-10 g at index (48,91,41) at time 24.562 m.y.
+Uncompensated deficit of 4.87076e-09 g at index (49,90,42) at time 24.562 m.y.
+Uncompensated deficit of 8.7484e-09 g at index (14,81,128) at time 24.564 m.y.
+Uncompensated deficit of 1.51467e-09 g at index (100,59,9) at time 24.568 m.y.
+Uncompensated deficit of 2.10896e-08 g at index (70,48,45) at time 24.572 m.y.
+Uncompensated deficit of 7.14753e-09 g at index (45,91,106) at time 24.580 m.y.
+Uncompensated deficit of 2.04902e-09 g at index (102,63,4) at time 24.586 m.y.
+Uncompensated deficit of 5.75172e-09 g at index (48,90,40) at time 24.594 m.y.
+Uncompensated deficit of 3.67464e-09 g at index (47,92,40) at time 24.598 m.y.
+Uncompensated deficit of 8.34115e-09 g at index (13,82,127) at time 24.600 m.y.
+Uncompensated deficit of 2.21958e-09 g at index (66,49,41) at time 24.602 m.y.
+Uncompensated deficit of 4.15254e-09 g at index (50,90,44) at time 24.602 m.y.
+Uncompensated deficit of 4.87703e-09 g at index (50,89,43) at time 24.606 m.y.
+Uncompensated deficit of 2.24904e-09 g at index (99,59,8) at time 24.608 m.y.
+Uncompensated deficit of 3.94341e-10 g at index (47,93,42) at time 24.610 m.y.
+Uncompensated deficit of 3.18155e-09 g at index (48,93,44) at time 24.610 m.y.
+Uncompensated deficit of 3.06392e-09 g at index (49,92,45) at time 24.612 m.y.
+Uncompensated deficit of 2.28706e-09 g at index (15,80,128) at time 24.612 m.y.
+Uncompensated deficit of 3.89405e-09 g at index (14,82,126) at time 24.614 m.y.
+Uncompensated deficit of 2.97214e-09 g at index (47,91,39) at time 24.618 m.y.
+Uncompensated deficit of 2.57733e-09 g at index (45,90,107) at time 24.632 m.y.
+Uncompensated deficit of 3.44036e-09 g at index (48,89,39) at time 24.642 m.y.
+Uncompensated deficit of 2.5514e-09 g at index (46,92,39) at time 24.668 m.y.
+Uncompensated deficit of 8.16896e-09 g at index (45,89,108) at time 24.668 m.y.
+Uncompensated deficit of 4.4822e-09 g at index (46,93,40) at time 24.672 m.y.
+Uncompensated deficit of 9.30476e-09 g at index (46,91,38) at time 24.682 m.y.
+Uncompensated deficit of 5.23166e-09 g at index (12,83,127) at time 24.692 m.y.
+Uncompensated deficit of 1.13127e-08 g at index (46,94,41) at time 24.694 m.y.
+Uncompensated deficit of 1.08851e-08 g at index (51,88,44) at time 24.698 m.y.
+Uncompensated deficit of 1.183e-08 g at index (46,90,37) at time 24.708 m.y.
+Uncompensated deficit of 6.61009e-09 g at index (101,82,29) at time 24.710 m.y.
+Uncompensated deficit of 4.42437e-10 g at index (46,88,109) at time 24.716 m.y.
+Uncompensated deficit of 3.45059e-09 g at index (102,81,29) at time 24.722 m.y.
+Uncompensated deficit of 1.68779e-08 g at index (7,57,58) at time 24.726 m.y.
+Uncompensated deficit of 7.48777e-09 g at index (46,112,28) at time 24.734 m.y.
+Uncompensated deficit of 7.03833e-09 g at index (58,16,110) at time 24.734 m.y.
+Uncompensated deficit of 1.24789e-08 g at index (47,88,37) at time 24.736 m.y.
+Uncompensated deficit of 3.31126e-09 g at index (109,55,90) at time 24.738 m.y.
+Uncompensated deficit of 2.47719e-09 g at index (45,91,37) at time 24.742 m.y.
+Time = 24750000.000000, delC = 3.10444e-07, NuclRate = 1.57081e-13
+Uncompensated deficit of 6.92753e-09 g at index (5,57,57) at time 24.750 m.y.
+Uncompensated deficit of 1.37801e-08 g at index (56,107,58) at time 24.754 m.y.
+Uncompensated deficit of 1.9271e-09 g at index (59,16,111) at time 24.754 m.y.
+Uncompensated deficit of 3.88203e-09 g at index (45,110,28) at time 24.756 m.y.
+Uncompensated deficit of 2.16442e-08 g at index (57,108,58) at time 24.756 m.y.
+Uncompensated deficit of 2.28324e-09 g at index (99,53,78) at time 24.760 m.y.
+Uncompensated deficit of 4.01187e-09 g at index (45,90,36) at time 24.762 m.y.
+Uncompensated deficit of 3.42257e-09 g at index (64,7,107) at time 24.764 m.y.
+Uncompensated deficit of 6.21884e-09 g at index (59,15,109) at time 24.764 m.y.
+Uncompensated deficit of 5.61495e-09 g at index (46,88,36) at time 24.766 m.y.
+Uncompensated deficit of 1.53768e-08 g at index (58,109,58) at time 24.766 m.y.
+Uncompensated deficit of 5.39787e-09 g at index (60,15,111) at time 24.766 m.y.
+Uncompensated deficit of 1.04961e-08 g at index (61,14,110) at time 24.772 m.y.
+Uncompensated deficit of 5.44671e-09 g at index (58,15,108) at time 24.778 m.y.
+Uncompensated deficit of 9.97186e-09 g at index (45,111,30) at time 24.780 m.y.
+Uncompensated deficit of 1.08559e-08 g at index (46,87,110) at time 24.780 m.y.
+Uncompensated deficit of 9.02502e-09 g at index (60,14,109) at time 24.782 m.y.
+Uncompensated deficit of 4.83365e-09 g at index (59,17,113) at time 24.784 m.y.
+Uncompensated deficit of 9.00112e-09 g at index (62,13,110) at time 24.788 m.y.
+Uncompensated deficit of 5.43442e-09 g at index (61,13,109) at time 24.792 m.y.
+Uncompensated deficit of 4.26586e-09 g at index (57,15,107) at time 24.794 m.y.
+Uncompensated deficit of 1.00242e-10 g at index (94,20,48) at time 24.796 m.y.
+Uncompensated deficit of 1.23201e-08 g at index (61,15,112) at time 24.796 m.y.
+Uncompensated deficit of 1.10945e-09 g at index (47,114,27) at time 24.798 m.y.
+Uncompensated deficit of 1.36355e-08 g at index (123,44,52) at time 24.798 m.y.
+Uncompensated deficit of 3.32534e-09 g at index (64,8,108) at time 24.798 m.y.
+Uncompensated deficit of 5.66075e-11 g at index (95,19,48) at time 24.802 m.y.
+Uncompensated deficit of 2.9733e-09 g at index (45,88,35) at time 24.804 m.y.
+Uncompensated deficit of 9.95824e-09 g at index (59,14,108) at time 24.804 m.y.
+Uncompensated deficit of 4.6415e-09 g at index (93,21,48) at time 24.806 m.y.
+Uncompensated deficit of 2.55744e-08 g at index (122,44,51) at time 24.806 m.y.
+Uncompensated deficit of 8.62171e-09 g at index (97,53,79) at time 24.806 m.y.
+Uncompensated deficit of 9.30277e-09 g at index (62,12,109) at time 24.806 m.y.
+Uncompensated deficit of 7.63668e-09 g at index (99,55,79) at time 24.808 m.y.
+Uncompensated deficit of 3.83791e-10 g at index (63,12,110) at time 24.808 m.y.
+Uncompensated deficit of 1.2358e-08 g at index (62,14,112) at time 24.810 m.y.
+Uncompensated deficit of 4.31198e-09 g at index (95,20,47) at time 24.814 m.y.
+Uncompensated deficit of 6.48859e-10 g at index (64,9,109) at time 24.816 m.y.
+Uncompensated deficit of 2.40083e-09 g at index (44,90,35) at time 24.818 m.y.
+Uncompensated deficit of 4.12535e-09 g at index (25,54,33) at time 24.820 m.y.
+Uncompensated deficit of 1.05546e-08 g at index (96,18,47) at time 24.820 m.y.
+Uncompensated deficit of 2.57955e-09 g at index (94,21,47) at time 24.820 m.y.
+Uncompensated deficit of 4.98292e-09 g at index (63,11,109) at time 24.820 m.y.
+Uncompensated deficit of 9.49378e-09 g at index (99,79,31) at time 24.826 m.y.
+Uncompensated deficit of 1.15975e-08 g at index (95,18,49) at time 24.826 m.y.
+Uncompensated deficit of 5.27711e-09 g at index (92,22,48) at time 24.830 m.y.
+Uncompensated deficit of 5.61695e-09 g at index (64,10,110) at time 24.830 m.y.
+Uncompensated deficit of 9.68437e-09 g at index (63,7,106) at time 24.832 m.y.
+Uncompensated deficit of 9.33086e-09 g at index (63,10,108) at time 24.832 m.y.
+Uncompensated deficit of 1.72262e-09 g at index (62,11,108) at time 24.832 m.y.
+Uncompensated deficit of 4.3718e-09 g at index (63,13,112) at time 24.832 m.y.
+Uncompensated deficit of 2.68956e-09 g at index (98,80,31) at time 24.836 m.y.
+Uncompensated deficit of 9.32024e-09 g at index (93,22,47) at time 24.836 m.y.
+Uncompensated deficit of 8.31022e-09 g at index (96,17,48) at time 24.836 m.y.
+Uncompensated deficit of 4.90629e-09 g at index (93,20,50) at time 24.836 m.y.
+Uncompensated deficit of 1.20593e-08 g at index (63,9,107) at time 24.838 m.y.
+Uncompensated deficit of 8.20438e-09 g at index (65,9,110) at time 24.838 m.y.
+Uncompensated deficit of 1.0614e-09 g at index (96,19,46) at time 24.840 m.y.
+Uncompensated deficit of 2.46479e-08 g at index (91,66,110) at time 24.842 m.y.
+Uncompensated deficit of 1.04416e-09 g at index (24,55,33) at time 24.844 m.y.
+Uncompensated deficit of 4.48993e-09 g at index (64,11,111) at time 24.844 m.y.
+Uncompensated deficit of 2.98891e-09 g at index (91,23,47) at time 24.848 m.y.
+Uncompensated deficit of 8.0591e-09 g at index (7,28,20) at time 24.850 m.y.
+Uncompensated deficit of 9.23597e-09 g at index (9,27,22) at time 24.850 m.y.
+Uncompensated deficit of 1.03768e-09 g at index (25,53,32) at time 24.852 m.y.
+Uncompensated deficit of 1.17641e-08 g at index (44,88,34) at time 24.852 m.y.
+Uncompensated deficit of 1.18915e-09 g at index (91,22,49) at time 24.852 m.y.
+Uncompensated deficit of 3.551e-08 g at index (92,63,109) at time 24.852 m.y.
+Uncompensated deficit of 9.06891e-09 g at index (45,113,32) at time 24.854 m.y.
+Uncompensated deficit of 1.42428e-09 g at index (45,114,33) at time 24.854 m.y.
+Uncompensated deficit of 2.80903e-09 g at index (90,23,48) at time 24.860 m.y.
+Uncompensated deficit of 2.6119e-08 g at index (92,62,108) at time 24.860 m.y.
+Uncompensated deficit of 7.05817e-09 g at index (53,114,122) at time 24.860 m.y.
+Uncompensated deficit of 1.15451e-08 g at index (62,10,107) at time 24.862 m.y.
+Uncompensated deficit of 1.15776e-08 g at index (53,115,121) at time 24.862 m.y.
+Uncompensated deficit of 6.76233e-09 g at index (97,17,46) at time 24.866 m.y.
+Uncompensated deficit of 5.41622e-09 g at index (64,12,112) at time 24.866 m.y.
+Uncompensated deficit of 2.39524e-09 g at index (93,61,108) at time 24.868 m.y.
+Uncompensated deficit of 1.04924e-08 g at index (92,23,46) at time 24.870 m.y.
+Uncompensated deficit of 1.1227e-08 g at index (65,10,111) at time 24.872 m.y.
+Uncompensated deficit of 1.16952e-08 g at index (43,90,34) at time 24.880 m.y.
+Uncompensated deficit of 8.80755e-09 g at index (37,88,107) at time 24.880 m.y.
+Uncompensated deficit of 2.58767e-08 g at index (93,60,107) at time 24.882 m.y.
+Uncompensated deficit of 9.77211e-09 g at index (23,54,32) at time 24.886 m.y.
+Uncompensated deficit of 1.01561e-08 g at index (90,24,46) at time 24.888 m.y.
+Uncompensated deficit of 1.03031e-08 g at index (62,9,106) at time 24.890 m.y.
+Uncompensated deficit of 9.63552e-09 g at index (129,57,48) at time 24.894 m.y.
+Uncompensated deficit of 1.07021e-09 g at index (94,59,106) at time 24.896 m.y.
+Uncompensated deficit of 1.12114e-08 g at index (43,88,33) at time 24.906 m.y.
+Uncompensated deficit of 5.91571e-09 g at index (82,65,92) at time 24.908 m.y.
+Uncompensated deficit of 2.76771e-10 g at index (25,129,34) at time 24.910 m.y.
+Uncompensated deficit of 2.4481e-08 g at index (27,124,35) at time 24.912 m.y.
+Uncompensated deficit of 1.22207e-09 g at index (26,125,35) at time 24.914 m.y.
+Uncompensated deficit of 8.8082e-09 g at index (6,28,19) at time 24.916 m.y.
+Uncompensated deficit of 1.97227e-08 g at index (82,63,91) at time 24.918 m.y.
+Uncompensated deficit of 4.95874e-09 g at index (70,120,21) at time 24.920 m.y.
+Uncompensated deficit of 2.12752e-09 g at index (72,119,20) at time 24.926 m.y.
+Uncompensated deficit of 1.28235e-08 g at index (83,64,91) at time 24.926 m.y.
+Uncompensated deficit of 4.68778e-09 g at index (82,67,93) at time 24.926 m.y.
+Uncompensated deficit of 3.67274e-09 g at index (27,127,34) at time 24.932 m.y.
+Uncompensated deficit of 1.00402e-08 g at index (26,128,34) at time 24.934 m.y.
+Uncompensated deficit of 1.89127e-08 g at index (26,122,36) at time 24.936 m.y.
+Uncompensated deficit of 8.6656e-10 g at index (5,26,19) at time 24.948 m.y.
+Uncompensated deficit of 1.08235e-08 g at index (42,90,33) at time 24.948 m.y.
+Uncompensated deficit of 3.0119e-10 g at index (42,50,8) at time 24.968 m.y.
+Uncompensated deficit of 6.48558e-09 g at index (42,88,32) at time 24.968 m.y.
+Uncompensated deficit of 6.64584e-09 g at index (51,20,46) at time 24.968 m.y.
+Uncompensated deficit of 3.57726e-09 g at index (51,19,47) at time 24.978 m.y.
+Uncompensated deficit of 7.55972e-09 g at index (47,19,48) at time 24.978 m.y.
+Uncompensated deficit of 6.31571e-09 g at index (47,20,47) at time 24.980 m.y.
+Uncompensated deficit of 9.81233e-09 g at index (51,21,45) at time 24.992 m.y.
+Uncompensated deficit of 1.45137e-09 g at index (86,82,29) at time 24.998 m.y.
+Time = 25000000.000000, delC = 3.13847e-07, NuclRate = 1.60723e-13
+Uncompensated deficit of 4.79039e-10 g at index (48,18,49) at time 25.000 m.y.
+Uncompensated deficit of 4.71218e-09 g at index (85,83,28) at time 25.002 m.y.
+Uncompensated deficit of 5.93667e-09 g at index (128,59,49) at time 25.008 m.y.
+Uncompensated deficit of 1.92662e-09 g at index (84,82,28) at time 25.010 m.y.
+Uncompensated deficit of 6.00213e-09 g at index (85,81,29) at time 25.014 m.y.
+Uncompensated deficit of 8.95998e-09 g at index (87,83,29) at time 25.018 m.y.
+Uncompensated deficit of 1.47201e-08 g at index (64,81,84) at time 25.022 m.y.
+Uncompensated deficit of 7.08585e-09 g at index (41,90,32) at time 25.026 m.y.
+Uncompensated deficit of 6.56871e-09 g at index (87,81,30) at time 25.028 m.y.
+Uncompensated deficit of 6.01646e-09 g at index (84,83,27) at time 25.034 m.y.
+Uncompensated deficit of 2.51942e-10 g at index (79,138,25) at time 25.040 m.y.
+Uncompensated deficit of 3.77703e-09 g at index (88,82,30) at time 25.040 m.y.
+Uncompensated deficit of 3.66022e-09 g at index (85,84,27) at time 25.044 m.y.
+Uncompensated deficit of 8.5771e-09 g at index (41,88,31) at time 25.044 m.y.
+Uncompensated deficit of 1.21329e-09 g at index (51,22,44) at time 25.044 m.y.
+Uncompensated deficit of 4.95727e-09 g at index (86,80,30) at time 25.046 m.y.
+Uncompensated deficit of 9.01701e-09 g at index (83,82,27) at time 25.054 m.y.
+Uncompensated deficit of 9.80827e-09 g at index (11,87,124) at time 25.056 m.y.
+Uncompensated deficit of 1.14027e-08 g at index (49,17,50) at time 25.060 m.y.
+Uncompensated deficit of 2.90115e-09 g at index (80,84,23) at time 25.066 m.y.
+Uncompensated deficit of 1.13658e-08 g at index (48,17,51) at time 25.072 m.y.
+Uncompensated deficit of 9.03754e-09 g at index (10,87,125) at time 25.072 m.y.
+Uncompensated deficit of 7.07627e-09 g at index (83,84,26) at time 25.076 m.y.
+Uncompensated deficit of 7.07148e-10 g at index (80,83,24) at time 25.082 m.y.
+Uncompensated deficit of 1.24991e-08 g at index (82,83,26) at time 25.084 m.y.
+Uncompensated deficit of 8.25854e-09 g at index (84,85,26) at time 25.092 m.y.
+Uncompensated deficit of 3.23293e-09 g at index (48,97,50) at time 25.092 m.y.
+Uncompensated deficit of 3.96979e-09 g at index (88,80,31) at time 25.094 m.y.
+Uncompensated deficit of 3.99674e-09 g at index (48,24,43) at time 25.094 m.y.
+Uncompensated deficit of 1.71231e-09 g at index (82,81,27) at time 25.096 m.y.
+Uncompensated deficit of 1.14175e-08 g at index (101,135,40) at time 25.098 m.y.
+Uncompensated deficit of 1.20115e-08 g at index (49,96,51) at time 25.098 m.y.
+Uncompensated deficit of 3.60275e-10 g at index (14,107,127) at time 25.106 m.y.
+Uncompensated deficit of 1.00738e-09 g at index (80,82,25) at time 25.108 m.y.
+Uncompensated deficit of 1.71275e-08 g at index (47,98,49) at time 25.108 m.y.
+Uncompensated deficit of 1.15914e-08 g at index (81,83,25) at time 25.110 m.y.
+Uncompensated deficit of 1.33521e-11 g at index (82,84,25) at time 25.110 m.y.
+Uncompensated deficit of 1.4851e-08 g at index (81,84,24) at time 25.112 m.y.
+Uncompensated deficit of 7.44384e-09 g at index (13,107,128) at time 25.114 m.y.
+Uncompensated deficit of 1.17979e-08 g at index (87,79,31) at time 25.118 m.y.
+Uncompensated deficit of 1.69984e-08 g at index (81,85,23) at time 25.120 m.y.
+Uncompensated deficit of 1.31644e-08 g at index (83,85,25) at time 25.124 m.y.
+Uncompensated deficit of 6.16604e-09 g at index (41,133,90) at time 25.132 m.y.
+Uncompensated deficit of 1.02202e-08 g at index (82,85,24) at time 25.136 m.y.
+Uncompensated deficit of 1.50939e-08 g at index (81,86,22) at time 25.138 m.y.
+Uncompensated deficit of 5.32531e-09 g at index (40,133,91) at time 25.138 m.y.
+Uncompensated deficit of 8.931e-09 g at index (91,82,31) at time 25.140 m.y.
+Uncompensated deficit of 1.49677e-09 g at index (42,133,89) at time 25.140 m.y.
+Uncompensated deficit of 3.63462e-09 g at index (41,131,91) at time 25.144 m.y.
+Uncompensated deficit of 4.21542e-09 g at index (42,131,90) at time 25.146 m.y.
+Uncompensated deficit of 2.51275e-09 g at index (14,108,128) at time 25.148 m.y.
+Uncompensated deficit of 2.58078e-09 g at index (41,135,89) at time 25.150 m.y.
+Uncompensated deficit of 5.51679e-09 g at index (84,86,25) at time 25.154 m.y.
+Uncompensated deficit of 1.39736e-08 g at index (92,83,31) at time 25.154 m.y.
+Uncompensated deficit of 1.95084e-08 g at index (103,57,80) at time 25.154 m.y.
+Uncompensated deficit of 7.9377e-09 g at index (40,135,90) at time 25.154 m.y.
+Uncompensated deficit of 1.96448e-09 g at index (40,130,92) at time 25.154 m.y.
+Uncompensated deficit of 1.00962e-08 g at index (49,16,52) at time 25.156 m.y.
+Uncompensated deficit of 1.87331e-08 g at index (80,80,26) at time 25.158 m.y.
+Uncompensated deficit of 1.3437e-09 g at index (62,18,64) at time 25.160 m.y.
+Uncompensated deficit of 5.71667e-09 g at index (39,132,92) at time 25.160 m.y.
+Uncompensated deficit of 1.94058e-09 g at index (15,108,127) at time 25.160 m.y.
+Uncompensated deficit of 2.06044e-08 g at index (45,17,54) at time 25.162 m.y.
+Uncompensated deficit of 4.79358e-09 g at index (82,86,23) at time 25.166 m.y.
+Uncompensated deficit of 9.96285e-09 g at index (13,108,129) at time 25.166 m.y.
+Uncompensated deficit of 5.14641e-10 g at index (83,86,24) at time 25.168 m.y.
+Uncompensated deficit of 8.78239e-09 g at index (48,16,53) at time 25.168 m.y.
+Uncompensated deficit of 3.18918e-09 g at index (43,134,88) at time 25.168 m.y.
+Uncompensated deficit of 2.08648e-09 g at index (43,18,53) at time 25.170 m.y.
+Uncompensated deficit of 9.59146e-09 g at index (42,136,88) at time 25.172 m.y.
+Uncompensated deficit of 1.2116e-08 g at index (39,135,91) at time 25.172 m.y.
+Uncompensated deficit of 2.22148e-10 g at index (92,85,30) at time 25.174 m.y.
+Model has achieved completion conditions.  Quitting.
+Run finished at: Thu Oct 29 03:11:47 2015
+
