@@ -1,0 +1,39 @@
+Crystallize 1.4
+Run name:							PM3_150728_2021
+Result file directory:						runsPM3\PM3_150728_2021
+Reporting interval (years):					2.50E+05
+Fractional porosity (0-1):					7.00E+02
+Tortuosity (0-1):						1.0
+Activation energy for diffusion (kJ/mol):			140
+Dinf (cm^2/s):							2.00E-06
+Al concentration in fluid in eq with CAP (moles/cm^3):		5.60E-07
+Nucleation acceleration (dimensionless):			1.00E-00
+Nucleation rate at infinite overstepping (nuclei/s/cm^3):	5.00E-12
+Nucleation proportional to CAR amount in voxel (0=no,1=yes):	0
+Maximum number of porphyroblasts (0=unlimited):			0
+Maximum modal amount of product (0=limited by reactant amount):	0
+Al content of CAR (moles Al/moles CAR):				3.80
+Avg. formula weight of CAR (g CAR / mol CAR):			785.975
+Al content of CAP (moles Al/moles CAP):				3.80
+Avg. formula weight of CAP (g CAP / mol CAP):			749.945
+Density of CAP (g/cm^3):					4.07
+Voxel edge length (cm):						0.014
+Time step (yr):							2000
+Number of voxels in X:						141
+Number of voxels in Y:						141
+Number of voxels in Z:						141
+Dimensions:							3
+Default CAR amount (g/cm^3 rock):				0.12
+**** Reactant distribution: One header line, then one line per layer ****
+Number of structures (0=homogeneous):				0
+FD approximation source/sink parameter (dimensionless):		200
+Subvoxel growth acceleration factor (dimensionless, 0=none):	2.8284
+Random seed (0=generate new):					0
+Volume fraction of porphyroblast in CAP assemblage (fv):	0.5861
+Number of moles of porphyroblast in reaction equation (moles):	1.0
+Concentration to delGrxn conversion power-law factor n:		1.6964
+Free energy specification mode (0=thermo, 1=delGrxn path):	1
+Equilibrium temperature used for G-C conversion (°C):		607.95
+Number of Time-Temp-DelGrxn triplets:				3
+DelGrxn path (Myr after start,°C,kJ/mol):	(0.0,450.0,-0.0001)	(8.5,535.0,-11.6902)	(30.0,535.0,-11.6902)
+
