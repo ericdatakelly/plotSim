@@ -11,16 +11,17 @@ This figure shows simulated crystals resulting from Crystallize3D modeling, disp
 Crystallize3D is a finite-difference element model that simulates solid-state diffusion representing conditions of crystal growth in the Earth's crust (Ketcham and Carlson, 2012).  The chemical reactions that produce the crystals are literally impossible to reproduce in physical lab experiments due to time and temperature limitations (too fast and hot in the lab), so we use numerical techniques to overcome that problem.  plotSim enhances the sensitivity of Crystallize3D and provides analysis of simulation results.  
 
 
-A sample is scanned using computed tomography (CT scan), and slices of the sample are stacked into a 3D rendering of the volume, which allows quantification of the spatial features of the sample, notably the locations and sizes of specific crystals.
+A sample is scanned using computed tomography (CT scan), and slices of the sample are stacked into a 3D rendering of the volume, which allows quantification of the spatial features of the sample, notably the locations and sizes of all crystals.
 
 
-<img src="https://github.com/ericdavidkelly/plotSim/blob/master/Extras/sample.jpg" width="600"\>
+<img src="https://github.com/ericdavidkelly/plotSim/blob/master/Extras/sample.jpg" width="400"\>
 
 
-<img src="https://github.com/ericdavidkelly/plotSim/blob/master/Extras/ct_slice.jpg" width="600"\>
+<img src="https://github.com/ericdavidkelly/plotSim/blob/master/Extras/ct_slice.jpg" width="250"\>
 
 
 <img src="https://github.com/ericdavidkelly/plotSim/blob/master/Extras/ct_rendering.jpg" width="600"\>
+
 
 
 
